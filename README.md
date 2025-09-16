@@ -1,2 +1,0 @@
-# Vernex
-College project
